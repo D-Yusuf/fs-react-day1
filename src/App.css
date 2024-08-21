@@ -2,6 +2,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 30px;
+}
+.app input{
+  font-size: x-large;
 }
 .shop-image{
   max-height: 756px;
